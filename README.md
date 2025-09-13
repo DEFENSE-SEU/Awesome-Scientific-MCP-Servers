@@ -71,7 +71,7 @@ claude mcp add --transport http secure-api https://api.example.com/mcp \
 
 ## MCP Servers
 
-The following categories are based on the classification from nature.com.
+The following categories are based on the classification from [nature.com](https://www.nature.com/nature/browse-subjects).
 
 ### Physical sciences
 
@@ -89,15 +89,17 @@ The following categories are based on the classification from nature.com.
 * **BioMCP**: BioMCP is an open source (MIT License) toolkit that empowers AI assistants and agents with specialized biomedical knowledge. [code](https://github.com/genomoncology/biomcp)
 
 * **biothings-mcp**: This server implements the Model Context Protocol (MCP) for BioThings, providing a standardized interface for accessing and manipulating biomedical data.  [code](https://github.com/longevity-genie/biothings-mcp)
-### Health sciences
-
-* **Pubmed MCP**: A server for searching the Pubmed biomedical literature database. [code](https://github.com/user/repo) [mcp](https://pubmed-mcp.replit.app)
 
 * **gget-mcp**: MCP (Model Context Protocol) server for the gget bioinformatics library. [code](https://github.com/longevity-genie/gget-mcp)
 
 * **opengenes-mcp**: MCP (Model Context Protocol) server for OpenGenes database. [code](https://github.com/longevity-genie/opengenes-mcp)
 
 * **synergy-age-mcp**: MCP (Model Context Protocol) server for SynergyAge database.[code](https://github.com/longevity-genie/synergy-age-mcp) [paper](https://www.nature.com/articles/s41597-020-00710-z)
+
+
+### Health sciences
+
+* **Pubmed MCP**: A server for searching the Pubmed biomedical literature database. [code](https://github.com/user/repo) [mcp](https://pubmed-mcp.replit.app)
 
 * **fhir-mcp-server**: The FHIR MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with FHIR APIs. [code](https://github.com/wso2/fhir-mcp-server)
 
@@ -107,8 +109,6 @@ The following categories are based on the classification from nature.com.
 
 ### Scientific community and society
 
-* **Arxiv Search MCP**: A server for searching on the ArXiv.org preprint server. [code](https://github.com/user/repo) [mcp](https://your-mcp-server-url.com)
-* **Tavily Search MCP**: A server for web searches using the Tavily API, which is optimized for research and LLMs. [code](https://github.com/user/repo) [mcp](https://your-mcp-server-url.com)
 
 ---
 
