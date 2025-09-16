@@ -76,7 +76,7 @@ The following categories are based on the classification from [nature.com](https
 ### Physical sciences
 
 * **IO Aerospace**: A Model Context Protocol (MCP) server for aerospace and astrodynamics calculations, providing tools for celestial body ephemeris, orbital mechanics, and space mission analysis. [code](https://github.com/IO-Aerospace-software-engineering/mcp-server) [mcp](https://mcp.io-aerospace.org/sse)
-
+* **OpenFOAM MCP Server**: OpenFOAM Model Context Protocol server with advanced AI capabilities including Socratic questioning, context engineering, and expert-level error resolution. [code](https://github.com/webworn/openfoam-mcp-server) 
 
 
 
