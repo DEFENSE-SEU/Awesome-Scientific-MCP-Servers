@@ -80,6 +80,10 @@ The following categories are based on the classification from [nature.com](https
 
 
 
+### Mathematical and computational sciences
+
+* **Jacobian**: MCP server, CLI, and Python library for composable mathematics: exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms. [code](https://github.com/morluto/jacobian)
+
 ### Earth and environmental sciences
 
 *(This section is currently empty. Contributions are welcome!)*
@@ -160,4 +164,3 @@ If you find this repository useful in your research, please cite these two paper
   year={2025}
 }
 ```
-
