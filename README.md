@@ -82,7 +82,7 @@ The following categories are based on the classification from [nature.com](https
 
 ### Mathematical and computational sciences
 
-* **Jacobian**: An MCP server providing composable mathematical operations and independent verification for AI agents. [code](https://github.com/morluto/jacobian)
+* **Jacobian**: MCP server, CLI, and Python library for composable mathematics: exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms. [code](https://github.com/morluto/jacobian)
 
 ### Earth and environmental sciences
 
