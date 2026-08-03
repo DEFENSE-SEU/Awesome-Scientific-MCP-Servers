@@ -80,6 +80,10 @@ The following categories are based on the classification from [nature.com](https
 
 
 
+### Mathematical and computational sciences
+
+* **Jacobian**: An MCP server providing composable mathematical operations and independent verification for AI agents. [code](https://github.com/morluto/jacobian)
+
 ### Earth and environmental sciences
 
 *(This section is currently empty. Contributions are welcome!)*
@@ -160,4 +164,3 @@ If you find this repository useful in your research, please cite these two paper
   year={2025}
 }
 ```
-
