@@ -109,6 +109,8 @@ The following categories are based on the classification from [nature.com](https
 
 ### Scientific community and society
 
+* **Invokely**: Hosted official statistics MCP for social-science and population research, with source citations on returned figures; the public MIT repository is a local JavaScript stdio adapter, and the hosted implementation is not included. [code](https://github.com/estevecastells/invokely-mcp-connector) [mcp](https://invokely.ai/mcp/trial) (no-account trial: 25 calls per day per IP).
+
 
 ---
 
