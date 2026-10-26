@@ -75,6 +75,7 @@ The following categories are based on the classification from [nature.com](https
 
 ### Physical sciences
 
+* **AgentFEM MCP**: Local MCP tools to create, validate, run, and inspect FEniCSx-based finite-element projects using an installed AgentFEM runtime. [code](https://github.com/haoming-luo/agentfem-mcp)
 * **IO Aerospace**: A Model Context Protocol (MCP) server for aerospace and astrodynamics calculations, providing tools for celestial body ephemeris, orbital mechanics, and space mission analysis. [code](https://github.com/IO-Aerospace-software-engineering/mcp-server) [mcp](https://mcp.io-aerospace.org/sse)
 * **OpenFOAM MCP Server**: OpenFOAM Model Context Protocol server with advanced AI capabilities including Socratic questioning, context engineering, and expert-level error resolution. [code](https://github.com/webworn/openfoam-mcp-server) 
 
@@ -160,4 +161,3 @@ If you find this repository useful in your research, please cite these two paper
   year={2025}
 }
 ```
-
